@@ -1,0 +1,9 @@
+/Users/khanson/Documents/repos/samples/subrosa/scatterbrain/rust/macros/target/debug/deps/libconvert_case-d11b87aa0dd70cfa.rmeta: /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/lib.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/case.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/converter.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/pattern.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/segmentation.rs
+
+/Users/khanson/Documents/repos/samples/subrosa/scatterbrain/rust/macros/target/debug/deps/convert_case-d11b87aa0dd70cfa.d: /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/lib.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/case.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/converter.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/pattern.rs /Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/segmentation.rs
+
+/Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/lib.rs:
+/Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/case.rs:
+/Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/converter.rs:
+/Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/pattern.rs:
+/Users/khanson/cargo_sandbox/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.6.0/src/segmentation.rs:

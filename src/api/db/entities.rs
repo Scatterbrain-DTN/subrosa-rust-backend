@@ -769,7 +769,7 @@ mod test {
 
         let p = old.to_proto(&db).unwrap();
 
-        let p = Posts::from_proto(p).unwrap();
+        Posts::from_proto(p).unwrap();
     }
 
     #[test]
@@ -785,7 +785,7 @@ mod test {
 
         let p = old.to_proto();
 
-        let p = NewsGroup::from_proto(p).unwrap();
+        NewsGroup::from_proto(p).unwrap();
     }
 
     #[test]

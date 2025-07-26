@@ -146,6 +146,6 @@ mod test {
 
         ng.encode(&mut out).unwrap();
 
-        let decode = SubrosaMessage::parse(&out).unwrap();
+        SubrosaMessage::parse(&out).unwrap();
     }
 }
